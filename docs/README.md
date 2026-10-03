@@ -32,7 +32,7 @@ python -m unittest
 <!-- Add yourself here on your Git lesson: - Your Name (role) -->
 
 - (your squad will add themselves here)
-
+Rithwik (Coder)
 ## Where to start
 
 Pick a ticket from the `tickets/` folder (or the Issues tab once your section
